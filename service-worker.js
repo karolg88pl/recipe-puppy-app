@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/recipepuppy/precache-manifest.29fe76a9d8962466f5dafe58500e3c8e.js"
+  "/recipe-puppy-app/precache-manifest.79f49ff556de494dbd0629f95d3c48d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/recipepuppy/index.html", {
+workbox.routing.registerNavigationRoute("/recipe-puppy-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

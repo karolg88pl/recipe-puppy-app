@@ -1,15 +1,15 @@
 {
-  "main.css": "/recipepuppy/static/css/main.11d832ee.chunk.css",
-  "main.js": "/recipepuppy/static/js/main.bc78c592.chunk.js",
-  "main.js.map": "/recipepuppy/static/js/main.bc78c592.chunk.js.map",
-  "runtime~main.js": "/recipepuppy/static/js/runtime~main.af561b9e.js",
-  "runtime~main.js.map": "/recipepuppy/static/js/runtime~main.af561b9e.js.map",
-  "static/js/2.5401cc23.chunk.js": "/recipepuppy/static/js/2.5401cc23.chunk.js",
-  "static/js/2.5401cc23.chunk.js.map": "/recipepuppy/static/js/2.5401cc23.chunk.js.map",
-  "index.html": "/recipepuppy/index.html",
-  "precache-manifest.29fe76a9d8962466f5dafe58500e3c8e.js": "/recipepuppy/precache-manifest.29fe76a9d8962466f5dafe58500e3c8e.js",
-  "service-worker.js": "/recipepuppy/service-worker.js",
-  "static/css/main.11d832ee.chunk.css.map": "/recipepuppy/static/css/main.11d832ee.chunk.css.map",
-  "static/media/cook_avatar.png": "/recipepuppy/static/media/cook_avatar.aab37981.png",
-  "static/media/no_results.jpg": "/recipepuppy/static/media/no_results.fddf24c1.jpg"
+  "main.css": "/recipe-puppy-app/static/css/main.11d832ee.chunk.css",
+  "main.js": "/recipe-puppy-app/static/js/main.91555f3e.chunk.js",
+  "main.js.map": "/recipe-puppy-app/static/js/main.91555f3e.chunk.js.map",
+  "runtime~main.js": "/recipe-puppy-app/static/js/runtime~main.0f0f6cbd.js",
+  "runtime~main.js.map": "/recipe-puppy-app/static/js/runtime~main.0f0f6cbd.js.map",
+  "static/js/2.5401cc23.chunk.js": "/recipe-puppy-app/static/js/2.5401cc23.chunk.js",
+  "static/js/2.5401cc23.chunk.js.map": "/recipe-puppy-app/static/js/2.5401cc23.chunk.js.map",
+  "index.html": "/recipe-puppy-app/index.html",
+  "precache-manifest.79f49ff556de494dbd0629f95d3c48d9.js": "/recipe-puppy-app/precache-manifest.79f49ff556de494dbd0629f95d3c48d9.js",
+  "service-worker.js": "/recipe-puppy-app/service-worker.js",
+  "static/css/main.11d832ee.chunk.css.map": "/recipe-puppy-app/static/css/main.11d832ee.chunk.css.map",
+  "static/media/cook_avatar.png": "/recipe-puppy-app/static/media/cook_avatar.aab37981.png",
+  "static/media/no_results.jpg": "/recipe-puppy-app/static/media/no_results.fddf24c1.jpg"
 }
