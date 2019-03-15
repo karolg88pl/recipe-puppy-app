@@ -12,8 +12,8 @@ const Recipe = (props) => (
         Go back
       </Button>
     </Link>
-    <Iframe url={props.data.filter((item)=>(item.title==props.match.params.title)).length?
-                 props.data.filter((item)=>(item.title==props.match.params.title))[0].href:""}
+    <Iframe url={props.data.filter((item)=>(item.title===props.match.params.title)).length?
+                 props.data.filter((item)=>(item.title===props.match.params.title))[0].href:""}
         width="100%"
         height="75vh"
         position="relative"
