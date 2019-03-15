@@ -29,7 +29,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router basename="/recipe-puppy-app">
+      <Router>
       <React.Fragment>
         <Navbar />
         <Switch>
