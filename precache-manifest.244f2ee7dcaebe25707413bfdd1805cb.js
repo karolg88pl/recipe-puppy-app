@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/recipe-puppy-app/static/js/runtime~main.0f0f6cbd.js"
   },
   {
-    "revision": "7fa53618274978ccaad9",
-    "url": "/recipe-puppy-app/static/js/main.6f65f855.chunk.js"
+    "revision": "3fd324a930a3d8880b69",
+    "url": "/recipe-puppy-app/static/js/main.b4c60664.chunk.js"
   },
   {
     "revision": "a1063e441727504a74ba",
     "url": "/recipe-puppy-app/static/js/2.3f34b815.chunk.js"
   },
   {
-    "revision": "04418da254c96b2ff39fab8482b60560",
+    "revision": "021153bfb636bb2678f4980445c36db6",
     "url": "/recipe-puppy-app/index.html"
   }
 ];
